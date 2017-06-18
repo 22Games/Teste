@@ -26,3 +26,6 @@
 /data/Map002.json https://raw.githubusercontent.com/22Games/Teste/master/Map002.json
 <End of Version>
 
+<Version: 1.08>
+/data/Map007.json https://raw.githubusercontent.com/22Games/ZombiesTeste/master/Map007.json
+<End of Version>
